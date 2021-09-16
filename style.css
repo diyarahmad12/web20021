@@ -1,0 +1,44 @@
+*{
+width: auto;
+margin: 0;
+padding: 0;
+}
+
+
+#foo {
+background-color: black;
+font-size: 100px;
+color: white;
+text-align: center;
+padding: 50px;
+
+
+}
+
+
+.diyar {
+background-color: black;
+color: purple;
+height: 1000px;
+background-image: url('http://mediastinger.s3.us-west-1.amazonaws.com/wp-content/uploads/2021/05/28184813/Cruella-2021-after-credits-hq-1.jpg');
+}
+.purplecolor {
+color: purple;
+}
+
+}
+p {
+  font-size: 1.7rem;
+  font-family: verdana;
+  font-size: 20px;
+
+}
+h1 {
+  font-size: 1.7rem;
+}
+
+a{
+  font-size: 40px;
+  color: white;
+text-decoration: underline;
+}
